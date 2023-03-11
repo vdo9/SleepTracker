@@ -1,4 +1,4 @@
-<img src="https://github.com/vdo9/SleepTracker/blob/main/a4-sleeptracker-vd_AdobeExpress.gif"/>
+![](https://github.com/vdo9/SleepTracker/blob/main/a4-sleeptracker-vd_AdobeExpress.gif)
 
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
