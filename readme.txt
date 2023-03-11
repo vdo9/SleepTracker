@@ -1,4 +1,4 @@
-![alt text](https://github.com/vdo9/SleepTracker/blob/main/a4-sleeptracker-vd_AdobeExpress.gif?raw=true)
+![alt text](https://github.com/vdo9/SleepTracker/blob/main/a4-sleeptracker-vd_AdobeExpress.gif)
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
