@@ -1,4 +1,4 @@
-![](https://imgur.com/UGexkqU)
+![Alt Text](https://imgur.com/UGexkqU)
 
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
