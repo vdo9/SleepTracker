@@ -27,8 +27,8 @@ To install the app, follow these steps:
 
 # Launching Simulator
 
-4. Build the app for iOS by running ionic cap build ios from the project root. This will generate an Xcode project in the ios directory.
-5. Open the Xcode project by running open ios/App/App.xcodeproj.
+4. Build the app for iOS by running `ionic cap build ios` from the project root. This will generate an Xcode project in the ios directory.
+5. Open the Xcode project by running `open ios/App/App.xcodeproj`.
 6. Select a simulator from the list of available devices, or connect a physical device via USB.
 7. Build and run the app in the simulator by clicking the "Play" button in Xcode, or by running 
 `ionic cap run ios --livereload --external` from the project root.
