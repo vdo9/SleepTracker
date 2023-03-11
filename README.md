@@ -1,1 +1,2 @@
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/69447220/224467494-1a39eb0a-f6bd-4784-91cb-22419127e7ab.gif =500x)
+
+<img src='[https://github.com/SkinQuest/SkinDeep/blob/054bc9ec0dfd8960089e7859c10f54eb172948cd/assets/skindeepgif.gif](https://github.com/vdo9/SleepTracker/blob/main/a4-sleeptracker-vd_AdobeExpress.gif)' title='Video Walkthrough' width='300' alt='Demo' />
