@@ -2,7 +2,7 @@
 
 ## Description
 
-Sleep Tracker is an app that helps users track their sleep patterns and improve their sleep habits. The app allows users to log their sleep hours and quality, set sleep goals, and view their sleep history over time.
+Sleep Tracker is an app that helps users track their sleep patterns and improve their sleep habits. The app allows users to log their sleep hours, track sleepiness during the day, set reminders to log data, and view their sleep history over time.
 
 <img src='https://im2.ezgif.com/tmp/ezgif-2-c388d93b04.gif' title='Video Walkthrough' width='300' alt='Demo' />
 
