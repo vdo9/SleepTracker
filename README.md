@@ -8,7 +8,7 @@ Sleep Tracker is an app that helps users track their sleep patterns and improve 
 
 ## Technologies Used
 
-The app is built using the Ionic framework and Angular. It also utilizes Firebase for data storage and authentication.
+The app is built using the Ionic framework and Angular. It utilizes Ionic Local Storage to temporarily save data states.
 
 ## Features
 
