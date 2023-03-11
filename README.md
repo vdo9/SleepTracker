@@ -1,1 +1,1 @@
-![Alt Text](https://i.imgur.com/UGexkqU.gifv)
+![Alt Text](https://imgur.com/a/L7QWqVB)
