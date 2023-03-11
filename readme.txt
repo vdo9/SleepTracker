@@ -1,5 +1,3 @@
-![](https://github.com/vdo9/SleepTracker/blob/main/a4-sleeptracker-vd_AdobeExpress.gif)
-
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
@@ -65,3 +63,6 @@ I used local notifications and local storage.
 
 14. How does your app implement or follow principles of good mobile design?
 My app is separated by three tabs and stores the information users need to interact with in cards. There is also a color scheme to make the information stand out more.
+
+
+![](https://github.com/vdo9/SleepTracker/blob/main/a4-sleeptracker-vd_AdobeExpress.gif)
